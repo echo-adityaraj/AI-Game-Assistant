@@ -14,6 +14,9 @@ The assistant works without an API key. With a Groq key, it can turn retrieved g
 - Streamlit chat interface
 - Automatically builds the TF-IDF index when deployed
 
+## Live Demo
+https://ai-game-assistant.streamlit.app/
+
 ## Example Usage
 
 After starting the Streamlit app, enter a game-related request in the chat box.
