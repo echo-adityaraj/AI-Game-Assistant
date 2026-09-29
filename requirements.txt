@@ -1,0 +1,7 @@
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.5
+requests>=2.31
+streamlit>=1.35
+langchain-core>=0.3
+joblib>=1.3
